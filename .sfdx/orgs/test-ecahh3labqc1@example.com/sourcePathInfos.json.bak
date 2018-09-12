@@ -1,0 +1,629 @@
+[
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1536742210881,
+            "changeTime": 1536742210881,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1536742210881,
+            "changeTime": 1536742210881,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1536742514887,
+            "changeTime": 1536742514887,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1536743250392,
+            "changeTime": 1536743250392,
+            "contentHash": "8a88eceb689be2ba3b5d2bf32812094f3148c280",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1536743250396,
+            "changeTime": 1536743250396,
+            "contentHash": "f68953c716a83b889146309deab6f0790889c659",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponent.auradoc",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponent.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1536743250395,
+            "changeTime": 1536743250395,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponent.cmp",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponent.cmp",
+            "isDirectory": false,
+            "size": 501,
+            "modifiedTime": 1536745338055,
+            "changeTime": 1536745338055,
+            "contentHash": "66d7bdf572e2af5e0dd5585716ebf1d35b80b880",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponent.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1536743250393,
+            "changeTime": 1536743250393,
+            "contentHash": "176c6dead7f69c6d3740e4e9f275483853b6d2a4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponent.css",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponent.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1536743250394,
+            "changeTime": 1536743250394,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponent.design",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponent.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1536743250396,
+            "changeTime": 1536743250396,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponent.svg",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponent.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1536743250395,
+            "changeTime": 1536743250395,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponentController.js",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponentController.js",
+            "isDirectory": false,
+            "size": 1824,
+            "modifiedTime": 1536745233442,
+            "changeTime": 1536745233442,
+            "contentHash": "ecc50324621576f727b37965339938d342cb7aa8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponentHelper.js",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponentHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1536743250394,
+            "changeTime": 1536743250394,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponentRenderer.js",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/FLSCheckComponent/FLSCheckComponentRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1536743250394,
+            "changeTime": 1536743250394,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1536742459767,
+            "changeTime": 1536742459767,
+            "contentHash": "5a891e9357ae65f4628eaf4275e0bae0b999ebe6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponent.auradoc",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponent.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1536742459766,
+            "changeTime": 1536742459766,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponent.cmp",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponent.cmp",
+            "isDirectory": false,
+            "size": 37,
+            "modifiedTime": 1536742459763,
+            "changeTime": 1536742459763,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponent.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1536742459764,
+            "changeTime": 1536742459764,
+            "contentHash": "abbed2bf8451cfefd43c5cf88ddb755b8baa3500",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponent.css",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponent.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1536742459765,
+            "changeTime": 1536742459765,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponent.design",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponent.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1536742459767,
+            "changeTime": 1536742459767,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponent.svg",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponent.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1536742459766,
+            "changeTime": 1536742459766,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponentController.js",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponentController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1536742459764,
+            "changeTime": 1536742459764,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponentHelper.js",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponentHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1536742459765,
+            "changeTime": 1536742459765,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponentRenderer.js",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/SOQLInjectionComponent/SOQLInjectionComponentRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1536742459766,
+            "changeTime": 1536742459766,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1536742435679,
+            "changeTime": 1536742435679,
+            "contentHash": "36264bfc37f9f18adfe2b8c8ee4f8ca496031c5a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponent.auradoc",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponent.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1536742435678,
+            "changeTime": 1536742435678,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponent.cmp",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponent.cmp",
+            "isDirectory": false,
+            "size": 37,
+            "modifiedTime": 1536742435675,
+            "changeTime": 1536742435675,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponent.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1536742435676,
+            "changeTime": 1536742435676,
+            "contentHash": "afb39a4cef9d33a265e4f25b1031d9256b0add5d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponent.css",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponent.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1536742435677,
+            "changeTime": 1536742435677,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponent.design",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponent.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1536742435679,
+            "changeTime": 1536742435679,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponent.svg",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponent.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1536742435678,
+            "changeTime": 1536742435678,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponentController.js",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponentController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1536742435677,
+            "changeTime": 1536742435677,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponentHelper.js",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponentHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1536742435677,
+            "changeTime": 1536742435677,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponentRenderer.js",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/aura/XSSComponent/XSSComponentRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1536742435678,
+            "changeTime": 1536742435678,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1536743266297,
+            "changeTime": 1536743266297,
+            "contentHash": "669a7d2e3e6743d8fd9ee1a92c14aef9164ab58c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes/FLSCheckComponentController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes/FLSCheckComponentController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 245,
+            "modifiedTime": 1536745456364,
+            "changeTime": 1536745456364,
+            "isWorkspace": false,
+            "contentHash": "31c3e76dcac362964f8e7806f57760dfffd0a7f1"
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes/FLSCheckComponentController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes/FLSCheckComponentController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1536743266297,
+            "changeTime": 1536743266297,
+            "contentHash": "1a86fab3ad79f40b25c9669ac6ba707ce99e05f3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes/SOQLInjectionComponentController.cls",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes/SOQLInjectionComponentController.cls",
+            "isDirectory": false,
+            "size": 118,
+            "modifiedTime": 1536742514887,
+            "changeTime": 1536742514887,
+            "contentHash": "200e5cb88ea1bec63808e69b6625825fd559a219",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes/SOQLInjectionComponentController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes/SOQLInjectionComponentController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1536742514887,
+            "changeTime": 1536742514887,
+            "contentHash": "590b517f6748c20af911df135a98cb003b7a5fea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes/XSSComponentController.cls",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes/XSSComponentController.cls",
+            "isDirectory": false,
+            "size": 98,
+            "modifiedTime": 1536742532194,
+            "changeTime": 1536742532194,
+            "contentHash": "cf6a17036c3389cc34cdb0e707d5e1599f3b8b39",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes/XSSComponentController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo/force-app/main/default/classes/XSSComponentController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1536742532195,
+            "changeTime": 1536742532195,
+            "contentHash": "e9a026cfde05807f4701103bd43f2ed780906661",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo",
+        {
+            "sourcePath": "/Users/ivanalmeida/Documents/Git-Repositories/claytonsfdxdemo",
+            "isDirectory": true,
+            "size": 384,
+            "modifiedTime": 1536742629412,
+            "changeTime": 1536742629412,
+            "contentHash": "d1870159c5518f364be1f2bfddb0a4363b8881e9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

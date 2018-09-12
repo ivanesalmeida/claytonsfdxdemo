@@ -1,0 +1,12 @@
+<aura:component controller="FLSCheckComponentController" implements="flexipage:availableForRecordHome,force:hasRecordId">
+
+    <aura:attribute name="theName" type="String" />
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+
+
+    <lightning:card title="Something" iconName="standard:bot">
+            <div class="slds-card__body slds-card__body_inner">
+                <aura:text value="{!v.theName}" aura:id="theText" />
+            </div>
+    </lightning:card>
+</aura:component>
