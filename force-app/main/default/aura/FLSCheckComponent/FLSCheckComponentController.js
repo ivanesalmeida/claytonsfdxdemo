@@ -13,8 +13,8 @@
             if (state === "SUCCESS") {
                 // Alert the user with the value returned 
                 // from the server
-                var accounts = response.getReturnValue();
-                cmp.set("v.theName", accounts[0].Revenue__c);
+                var account = response.getReturnValue();
+                cmp.set("v.theName", account.Revenue__c);
 
                 // You would typically fire a event here to trigger 
                 // client-side notification that the server-side 

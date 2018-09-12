@@ -1,2 +1,4 @@
 .sfdx/tools/apex.db
 .vscode/settings.json
+.sfdx/orgs/test-ecahh3labqc1@example.com/sourcePathInfos.json.bak
+.sfdx/orgs/test-ecahh3labqc1@example.com/sourcePathInfos.json

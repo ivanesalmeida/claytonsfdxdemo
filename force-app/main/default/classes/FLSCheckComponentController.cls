@@ -5,8 +5,13 @@ public with sharing class FLSCheckComponentController {
     }
 
     @AuraEnabled
-    public static List<Account> findAll() {
+    public static Account findAll() {
+        Account accountToReturn = [SELECT id, name, Revenue__c FROM Account LIMIT 1];
+        
+        if (!Schema.sObjectType.Account.fields.Name.isAccessible() || !Schema.sObjectType.Account.fields.Revenue__c.isAccessible()){
+          throw new AuraHandledException('No Access!');
+        }
 
-        return [SELECT id, name, Revenue__c FROM Account LIMIT 1];
+        return accountToReturn;
     }
 }
